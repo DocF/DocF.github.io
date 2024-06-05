@@ -16,7 +16,7 @@ I am very fortunate to be advised by Prof. Wang Zhaokui of [DSSL Lab](http://www
 * Ph.D. in Aerospace Science and Technology, Tsinghua University, Beijing, China
     * 2017-2024
     * Advisor: Prof. Wang Zhaokui
-* B.E. in Communication Engineering, Nanjing University of Science and Technology
+* B.E. in Communication Engineering, Nanjing University of Science and Technology, Nanjing, China
     * 2013-2017
     * Outstanding Graduate
 
