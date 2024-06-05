@@ -31,7 +31,7 @@ I am very fortunate to be advised by Prof. Wang Zhaokui of [DSSL Lab](http://www
 ## Conact
 
 ### Email
-fqy2017@gmail.com
+fqy17@mails.tsinghua.edu.cn
 
 
 
