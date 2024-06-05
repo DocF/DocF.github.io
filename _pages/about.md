@@ -25,7 +25,7 @@ I am very fortunate to be advised by Prof. Wang Zhaokui of [DSSL Lab](http://www
 ## News
 - [05/2024] Successfully defended my Ph.D. dissertation.
 
-- [04/2014] "Efficient Object Detection Method Based on Improved YOLOv3 Network for Remote Sensing Images," has been selected as a highly-cited and high-PCSl paper in the March-April 2024 issue of CNKI Academic Highlights.
+- [04/2024] "Efficient Object Detection Method Based on Improved YOLOv3 Network for Remote Sensing Images," has been selected as a highly-cited and high-PCSl paper in the March-April 2024 issue of CNKI Academic Highlights.
 
 
 
