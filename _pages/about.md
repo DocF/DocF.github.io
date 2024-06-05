@@ -20,10 +20,21 @@ I am very fortunate to be advised by Prof. Wang Zhaokui of [DSSL Lab](http://www
     * 2013-2017
     * Outstanding Graduate
 
+## Academic Activities
+
+### Academic Organizations
+- Member of the Technical Committee on System Complexity, Chinese Association of Automation
+
+### Journal Reviewers
+- Pattern Recognition Letters 
+- Image and Vision Computing
+- International Journal of Digital Earth
+- Infrared Physics & Technology
+
 
 
 ## News
-- [05/2024] Successfully defended my Ph.D. dissertation.
+- [05/2024] Successfully defended Ph.D. dissertation.
 
 - [04/2024] "Efficient Object Detection Method Based on Improved YOLOv3 Network for Remote Sensing Images," has been selected as a highly-cited and high-PCSl paper in the March-April 2024 issue of CNKI Academic Highlights.
 
