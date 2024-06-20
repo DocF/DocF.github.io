@@ -18,7 +18,7 @@ I am very fortunate to be advised by Prof. Wang Zhaokui of [DSSL Lab](http://www
     * Advisor: Prof. Wang Zhaokui
 * B.E. in Communication Engineering, Nanjing University of Science and Technology, Nanjing, China
     * 2013-2017
-    * Outstanding Graduate
+    * Excellent Graduates Award 
 
 ## Academic Activities
 
@@ -34,6 +34,8 @@ I am very fortunate to be advised by Prof. Wang Zhaokui of [DSSL Lab](http://www
 
 
 ## News
+- [06/2024] Personal Google Scholar Citations reached 200 times.
+
 - [05/2024] Successfully defended Ph.D. dissertation.
 
 - [04/2024] "Efficient Object Detection Method Based on Improved YOLOv3 Network for Remote Sensing Images," has been selected as a highly-cited and high-PCSl paper in the March-April 2024 issue of CNKI Academic Highlights.
