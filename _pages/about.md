@@ -34,7 +34,7 @@ I am very fortunate to be advised by Prof. Wang Zhaokui of [DSSL Lab](http://www
 
 
 ## News
-- [06/2024] Personal Google Scholar Citations reached 200 times.
+- [06/2024] Google Scholar Citations reached 200.
 
 - [05/2024] Successfully defended Ph.D. dissertation.
 
