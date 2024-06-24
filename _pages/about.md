@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I hold a Ph.D. from the School of Aerospace Engineering at Tsinghua University. My research interests are centered on the application of Artificial Intelligence in Aerospace, with a particular focus on Machine Learning, Deep Learning, and Computer Vision.
+I hold a Ph.D. from the School of Aerospace Engineering at Tsinghua University. My research interests are centered on AI for Aerospace, with a particular focus on Machine Learning, Deep Learning, and Computer Vision.
 
 I am very fortunate to be advised by Prof. Wang Zhaokui of [DSSL Lab](http://www.dssllab.com/) from School of Aerospace Engineering, Tsinghua University. 
 
