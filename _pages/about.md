@@ -28,7 +28,7 @@ I am very fortunate to be advised by Prof. Wang Zhaokui of [DSSL Lab](http://www
 ### Journal Reviewers
 - Pattern Recognition Letters 
 - Image and Vision Computing
-— IEEE Sensors Journal
+- IEEE Sensors Journal
 - International Journal of Digital Earth
 - Infrared Physics & Technology
 
