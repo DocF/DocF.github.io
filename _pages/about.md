@@ -31,6 +31,7 @@ I am very fortunate to be advised by Prof. Wang Zhaokui of [DSSL Lab](http://www
 - IEEE Sensors Journal
 - International Journal of Digital Earth
 - Infrared Physics & Technology
+- Journal of Visual Communication and Image Representation
 
 
 
