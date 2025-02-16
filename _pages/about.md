@@ -26,13 +26,11 @@ I am very fortunate to be advised by Prof. Wang Zhaokui of [DSSL Lab](http://www
 - Member of the Technical Committee on System Complexity, Chinese Association of Automation
 
 ### Journal Reviewers
-- IIEEE Transactions on Image Processing
+- IEEE Transactions on Image Processing
 - Neurocomputing
 - Pattern Recognition Letters 
 - Image and Vision Computing
 - IEEE Sensors Journal
-- International Journal of Digital Earth
-- Infrared Physics & Technology
 - Journal of Visual Communication and Image Representation
 
 
