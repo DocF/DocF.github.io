@@ -36,13 +36,10 @@ I am very fortunate to be advised by Prof. Wang Zhaokui of [DSSL Lab](http://www
 
 
 ## News
+- [07/2025] 🔥🔥Google Scholar Citations reached 500.
+  
 - [06/2024] 🔥🔥🔥Awarded the Excellent PhD Graduate of the SAE at Tsinghua University.
 
-- [06/2024] 🔥🔥Google Scholar Citations reached 200.
-
-- [05/2024] 🔥🔥Successfully defended Ph.D. dissertation.
-
-- [04/2024] 🔥"Efficient Object Detection Method Based on Improved YOLOv3 Network for Remote Sensing Images," has been selected as a highly-cited and high-PCSl paper in the March-April 2024 issue of CNKI Academic Highlights.
 
 
 
