@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Fang Qinyun 方青云"
+title                    : "Fang Qingyun 方青云"
 title_separator          : "-"
-name                     : &name "Fang Qinyun"
+name                     : &name "Fang Qingyun"
 description              : &description "academicpages"
 url                      : https://DocF.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,8 +21,8 @@ repository               : "DocF/DocF.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my.jpg"
-  name             : "Fang Qinyun"
+  avatar           : "myphoto.JPG"
+  name             : "Fang Qingyun"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D."
   location         : "Bejing, China"
