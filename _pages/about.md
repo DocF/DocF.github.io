@@ -38,6 +38,8 @@ I am very fortunate to be advised by Prof. Wang Zhaokui of [DSSL Lab](http://www
 ## News
 - [01/2026] 🎉🎉One paper is accepted by JSTARS [(FGHN)](https://ieeexplore.ieee.org/document/11347543).
 
+- [12/2025] 🏆️🏆️ [YOLOFusion](https://www.sciencedirect.com/science/article/pii/S0031320322002679) becomes **<span style="color:red">ESI Highly Cited Paper</span>** .
+
 - [07/2025] 🔥🔥Google Scholar Citations reached 500.
   
 - [06/2024] 🔥🔥🔥Awarded the Excellent PhD Graduate of the SAE at Tsinghua University.
