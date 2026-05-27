@@ -9,7 +9,7 @@ My recent work studies how to make visual detection systems more reliable and de
 - **Remote sensing object detection:** robust detection methods for complex aerial and satellite imagery.
 - **Multispectral and cross-modality fusion:** feature-level and decision-level fusion for visible, infrared, and multispectral sensing.
 - **Lightweight onboard intelligence:** model compression, feature distillation, and efficient perception for constrained platforms.
-- **Vision-language foundation models:** VLA-style perception and reasoning, object detection, and multispectral object detection for remote sensing imagery.
+- **Vision-language foundation models:** VLA-style perception and reasoning, object detection, and multispectral object detection.
 
 ## News
 
